@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Front End development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me
-Marius Kvål on facebook 
 mariuskvaal1@gmail.com 
 
 <!---
