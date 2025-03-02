@@ -3,7 +3,9 @@
 - 🌱 I’m Front End Developer
 - loves solving problems and optimizing corporate systems trough programming!
 - 📫 How to reach me
-mariuskvaal1@gmail.com 
+mariuskvaal1@gmail.com
+
+Portfolio = https://mariuskvaal.netlify.app/
 
 Tiktok = https://www.tiktok.com/@marius_kvaal
 
