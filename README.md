@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mariuskvaal
 - 👀 I’m interested in training, hiking, gaming and food.
-- 🌱 I’m currently learning Front End development
+- 🌱 I’m Front End Developer that loves solving problems and optimizing corporate systems trough programming!
 - 📫 How to reach me
 mariuskvaal1@gmail.com 
 
